@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+  <head>
+    <meta charset="utf-8"/>
+    <title>A Brief introduction of LDW</title>
+  </head>
+  <body>
+  <div class="con"> 
+    <div class="blog">ABOUT ME</div>
+    <div class="menu">
+      <ul>
+        <li><a href="https://user.qzone.qq.com/2394895371">QZONE</a></li>
+        <li><a herf="photo.index">PHOTO</a></li>
+        <li><a herf="QR.index">QR</a></li>
+        <li><a herf="girlfriend.index">GIRLFRIEND</a></li>
+      </ul>
+    </div>
+    <div class="left">
+      <img src="xiaolan1.index"width="500px">
+    </div>
+    <div class="right">
+      <ul>
+        <li>姓名：雷定伟</li>
+        <li>学号：2110307321</li>
+        <li>家乡：贵州省遵义市茅台镇</li>
+        <li>电话：15329228323</li>
+        <li>QQ:2394895371</li>
+        <li>爱好：乒乓球</li>
+        <li>自我介绍：我叫胡图图，今年三岁，我的爸爸叫胡英俊，我的妈妈叫张小丽，我家住在翻斗花园二号楼一零零一室，
+        妈妈做的炸小肉丸最好吃，我的猫咪叫小怪，他是一只会说话的猫咪呦，小怪和图图一样是个男孩子，图图最喜欢的好朋
+        友是小美，图图的耳朵很大很神奇，你们看动耳神功，请问有没有烤肉串呢，那炸臭豆腐呢，那随便来一个烤红薯好了，有
+        木有冰淇淋巧克力彩虹糖，旺旺饼干花生米，牛肉干豆奶酸奶橘子汁胡萝卜汁苹果汁。</li>
+      </ul>
+    </div>
+  </div>
+  </body>
+</html>      
+
+
+
+
+
+
+
